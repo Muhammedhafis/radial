@@ -1,8 +1,8 @@
 {
    "aternos": {
-      "username": "--Aternos username here--",
-      "password": "--Aternos password here--"
-   },
-   "token": "--Discord bot token here--",
+      "username": "discord_test",
+      "password": "hafis123"
+   }
+   "token": "MTIyNTc2OTAwMTA1Mzg0NzU3Mg.Gtb2E3.tjZCOm4N64jA6f5jaL4UfXw49-rHh3QUScF1GI",
    "current": null
 }
